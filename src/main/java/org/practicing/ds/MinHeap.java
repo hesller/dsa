@@ -1,4 +1,4 @@
-package org.example.ds;
+package org.practicing.ds;
 
 import java.util.ArrayList;
 
